@@ -16,6 +16,6 @@ npm run dev
 ให้นศ.ศึกษาวิธีการ build ใน **codesandbox.io** ได้จาก slide **Slide 10 - React Part One (extras)**
 
 (ใส่ URL ที่นี่)
- CODE SANDBOX: https://codesandbox.io/p/github/cpe-cmu-261207/lab-08-PlubCPE/draft/nostalgic-nightingale?file=%2FREADME.md&workspace=%257B%2522activeFileId%2522%253A%2522cl7sr9sze0006lofzbmxah7d6%2522%252C%2522openFiles%2522%253A%255B%2522%252FREADME.md%2522%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522sidekickItems%2522%253A%255B%257B%2522key%2522%253A%2522cl7sr9sy5000o376hv3x70ubk%2522%252C%2522type%2522%253A%2522PROJECT_SETUP%2522%252C%2522isMinimized%2522%253Afalse%257D%252C%257B%2522type%2522%253A%2522PREVIEW%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522port%2522%253A3000%252C%2522key%2522%253A%2522cl7sr9z0f006a376hdtyk49cl%2522%252C%2522isMinimized%2522%253Afalse%257D%252C%257B%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522key%2522%253A%2522cl7sr9yew004c376h775lzcln%2522%252C%2522isMinimized%2522%253Afalse%257D%255D%257D
+ CODE SANDBOX:https://nier70-3000.preview.csb.app/
  
  SURGE : https://lab-08-plubcpe.surge.sh/
